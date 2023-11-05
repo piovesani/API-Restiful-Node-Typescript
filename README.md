@@ -12,7 +12,7 @@ API RESTful integrada com o banco de dados mongoDB com Node + Typescript utiliza
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/piovesani/API-Restiful-Node-Typescript.git
 Navegue até o diretório do projeto:
 
 bash
