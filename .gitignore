@@ -1,0 +1,35 @@
+# Arquivos de compilação e dependências
+/node_modules/
+/build/
+/dist/
+/npm-debug.log
+
+# Arquivos de configuração
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs e saída de debug
+logs/
+*.log
+npm-debug.log*
+
+# Dependências específicas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache e arquivos temporários
+*.swp
+*.swo
+*.swn
+*.swm
+*.lock
+
+# Arquivos de teste e cobertura
+coverage/
+
+# Arquivos de configuração de IDE
+.idea/
+.vscode/
