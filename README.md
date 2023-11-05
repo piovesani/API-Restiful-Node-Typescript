@@ -4,7 +4,7 @@ API RESTful integrada com o banco de dados mongoDB com Node + Typescript utiliza
 
 ## Pré-requisitos
 
-- [Node.js](https://nodejs.org/) - Versão v20.9.0 ou superior
+- [Node.js](https://nodejs.org/) - Versão v20.9.0 
 - [npm](https://www.npmjs.com/)
 
 ## Instalação
